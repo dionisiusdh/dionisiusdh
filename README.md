@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionisiusdh&show_icons=true&hide_border=true" />
-
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-
 ### Connect with me:
 
 [<img align="left" alt="Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -46,6 +38,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][webdevplaylist]
 [<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png" />][reactplaylist]
 [<img align="left" alt="AWS" width="26px" src="https://logodix.com/logo/34937.png" />][reactplaylist]
+
+<br /><br />
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dionisiusdh&show_icons=true&hide_border=true" />
+
 
 [website]: https://dionisiusdh.github.io/
 [instagram]: https://www.instagram.com/dionisius.dh/
