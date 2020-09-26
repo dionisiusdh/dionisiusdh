@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png" />][reactplaylist]
 [<img align="left" alt="AWS" width="26px" src="https://logodix.com/logo/34937.png" />][reactplaylist]
 
-[website]: https://dionisiusdh.github.io/
+[website]: https://dionisiusdarryl.live
 [instagram]: https://www.instagram.com/dionisius.dh/
 [linkedin]: https://www.linkedin.com/in/dionisius-dh/
 [webdevplaylist]: https://github.com/dionisiusdh
