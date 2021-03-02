@@ -10,7 +10,7 @@ Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineer
 | Roles | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
 | Front-end Developer | Part-time | [StudentsxCEOs 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - Present |
-| Introduction to Computation Labolatory <br>  Assistant | Part-time | [Institut Teknologi Bandung](https://www.itb.ac.id/) | Oct 2020 - Dec 2020 |
+| Introduction to Computation Labolatory Assistant | Part-time | [Institut Teknologi Bandung](https://www.itb.ac.id/) | Oct 2020 - Dec 2020 |
 | Software Engineer | Internship | [Wardaya College](https://wardayaonline.com/) | May 2020 - Aug 2020 |
 
 ## 🛠 Tech Stack
@@ -18,7 +18,7 @@ Python, Typescript, JavaScript, Java, C++, C, React.js, Next.js, Node.js, Flask,
 
 ## 🤝🏻 Connect with Me
 <p>
-&nbsp; <a href="https://dionisiusdarryl.live" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/developer.png" width="50" /></a> 
+&nbsp; <a href="https://dionisiusdarryl.live" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/geography.png" width="50" /></a> 
 &nbsp; <a href="https://www.linkedin.com/in/dionisius-dh/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:dionisius.dh28@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/dionisius.dh/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
