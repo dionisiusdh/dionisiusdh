@@ -2,15 +2,16 @@
 Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineering at Institut Teknologi Bandung. I am very passionate to learn about Software Engineering, Web Development, and Data Science. Get in touch with me!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dionisiusdh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dionisiusdh&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="dionisiusdh's Github Stats"/>
 
 ## 💼 Experiences
 | Roles | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
 | Front-end Developer | Part-time | [StudentsxCEOs 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - Present |
-| Introduction to Computation Labolatory Assistant | Part-time | [Institut Teknologi Bandung](https://www.itb.ac.id/) | Oct 2020 - Dec 2020 |
+| Introduction to Computation Laboratory Assistant | Part-time | [Institut Teknologi Bandung](https://www.itb.ac.id/) | Oct 2020 - Dec 2020 |
 | Software Engineer | Internship | [Wardaya College](https://wardayaonline.com/) | May 2020 - Aug 2020 |
 
 ## 🛠 Tech Stack
