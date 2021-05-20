@@ -16,11 +16,7 @@ Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineer
 | Software Engineer | Internship | [Wardaya College](https://wardayaonline.com/) | May 2020 - Aug 2020 |
 
 ## 🛠 Tech Stack
-- Languages: Python, JavaScript, Typescript, Java
-- Front-end: React, Next, Vue, HTML, SCSS
-- Back-end: Node, Express, Flask, Spring Boot
-- Database: PostgreSQL, MySQL, MongoDB
-- Tools: Git, Firebase, Amazon Web Services
+Python, JavaScript, Typescript, Java, React, Next, Vue, HTML, SCSS, Node, Express, Flask, Spring Boot, PostgreSQL, MySQL, MongoDB, Git, Firebase, Amazon Web Services
 
 ## 🤝🏻 Connect with Me
 <p>
