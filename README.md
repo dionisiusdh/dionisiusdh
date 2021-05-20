@@ -1,5 +1,5 @@
 <h2>💬 Introduction</h2>
-Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineering at Institut Teknologi Bandung. I am very passionate to learn about Software Engineering, Web Development, and Data Science. Get in touch with me!
+Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineering at Institut Teknologi Bandung. I am very passionate to learn about Software Engineering and Data Science. Get in touch with me!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
@@ -10,12 +10,17 @@ Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineer
 ## 💼 Experiences
 | Roles | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Front-end Developer | Part-time | [StudentsxCEOs 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - Present |
-| Introduction to Computation Laboratory Assistant | Part-time | [Institut Teknologi Bandung](https://www.itb.ac.id/) | Oct 2020 - Dec 2020 |
+| Front-end Engineer | Internship | [Advotics](https://www.advotics.com/en/) | May 2021 - Present |
+| Front-end Developer | Part-time | [SxC 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - May 2021 |
+| Laboratory Assistant | Part-time | [PTI Labs ITB](https://www.itb.ac.id/) | Oct 2020 - Dec 2020 |
 | Software Engineer | Internship | [Wardaya College](https://wardayaonline.com/) | May 2020 - Aug 2020 |
 
 ## 🛠 Tech Stack
-Python, Typescript, JavaScript, Java, C++, C, React.js, Next.js, Node.js, Flask, Django, HTML, CSS, MySQL, PostgreSQL, Firebase, Visual Studio Code, Git, Amazon Web Services, Flutter
+- Languages: Python, JavaScript, Typescript, Java
+- Front-end: React, Next, Vue, HTML, SCSS
+- Back-end: Node, Express, Flask, Spring Boot
+- Database: PostgreSQL, MySQL, MongoDB
+- Tools: Git, Firebase, Amazon Web Services
 
 ## 🤝🏻 Connect with Me
 <p>
