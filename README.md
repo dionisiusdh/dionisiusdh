@@ -8,7 +8,7 @@ Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineer
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionisiusdh&include_all_commits=true&count_private=true&show_icons=true&line_height=22&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="dionisiusdh's Github Stats"/>
 
 ## 💼 Experiences
-| Roles | Type | Company/Institution | Duration |
+| Role | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
 | Front-end Engineer | Internship | [Advotics](https://www.advotics.com/en/) | May 2021 - Present |
 | Front-end Engineer | Part-time | [SxC 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - May 2021 |
