@@ -10,8 +10,9 @@ Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineer
 ## 💼 Experiences
 | Role | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Front-end Engineer | Internship | [Advotics](https://www.advotics.com/en/) | May 2021 - Present |
-| Front-end Engineer | Part-time | [SxC 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - May 2021 |
+| Backend Engineer | Full-time | [Ruangguru](https://www.ruangguru.com/) | Jan 2022 - Present |
+| Frontend Engineer | Internship | [Advotics](https://www.advotics.com/en/) | May 2021 - Aug 2021 |
+| Frontend Engineer | Part-time | [SxC 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - May 2021 |
 | Laboratory Assistant | Part-time | [PTI Labs ITB](https://www.itb.ac.id/) | Oct 2020 - Dec 2020 |
 | Software Engineer | Internship | [Wardaya College](https://wardayaonline.com/) | May 2020 - Aug 2020 |
 
