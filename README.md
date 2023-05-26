@@ -8,13 +8,14 @@ Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineer
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionisiusdh&include_all_commits=true&count_private=true&show_icons=true&line_height=22&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="dionisiusdh's Github Stats"/>
 
 ## 💼 Experiences
-| Role | Type | Company/Institution | Duration |
-| --- | --- | --- | --- |
-| Backend Engineer | Full-time | [Ruangguru](https://www.ruangguru.com/) | Jan 2022 - Present |
-| Frontend Engineer | Internship | [Advotics](https://www.advotics.com/en/) | May 2021 - Aug 2021 |
-| Frontend Engineer | Part-time | [SxC 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - May 2021 |
-| Laboratory Assistant | Part-time | [PTI Labs ITB](https://www.itb.ac.id/) | Oct 2020 - Dec 2020 |
-| Software Engineer | Internship | [Wardaya College](https://wardayaonline.com/) | May 2020 - Aug 2020 |
+| Role | Company/Institution | Duration |
+| --- | --- | --- |
+| Backend Engineer | [Traveloka](https://www.traveloka.com/en-id/) | May 2023 - Present |
+| Backend Engineer |[Ruangguru](https://www.ruangguru.com/) | Jan 2022 - May 2023 |
+| Frontend Engineer | [Advotics](https://www.advotics.com/en/) | May 2021 - Aug 2021 |
+| Frontend Engineer | [SxC 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - May 2021 |
+| Laboratory Assistant | [PTI Labs ITB](https://www.itb.ac.id/) | Oct 2020 - Dec 2020 |
+| Software Engineer | [Wardaya College](https://wardayaonline.com/) | May 2020 - Aug 2020 |
 
 ## ⚡ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&labelColor=323330&logo=Python)
