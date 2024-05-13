@@ -1,12 +1,3 @@
-<h2>💬 Introduction</h2>
-Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineering at Institut Teknologi Bandung. I am very passionate to learn about Software Engineering and Data Science. Get in touch with me!
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dionisiusdh&include_all_commits=true&count_private=true&show_icons=true&line_height=22&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="dionisiusdh's Github Stats"/>
-
 ## 💼 Experiences
 | Role | Company/Institution | Duration |
 | --- | --- | --- |
@@ -50,5 +41,3 @@ Hi, I am Dionisius Darryl Hermansyah, currently majoring in Informatics Engineer
 </p>
 
 <br/>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dionisiusdh.dionisiusdh)
